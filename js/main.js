@@ -26,6 +26,4 @@ function displayAnother(a) {
     document.getElementById("forecast").innerHTML += t
 }
 
-
-
 search("tunis");
